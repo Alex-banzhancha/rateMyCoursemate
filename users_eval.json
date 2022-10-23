@@ -1,7 +1,13 @@
 {
     "jiuyal2@uw.edu": [{
         "course": "Math 124",
-        "target": "junw3@uw.edu",
+        "from": "junw3@uw.edu",
+        "score": 5.0,
+        "comment": "Good job"
+    },
+    {
+        "course": "Math 124",
+        "from": "yigaol2@uw.edu",
         "score": 5.0,
         "comment": "Good job"
     }],
